@@ -7,6 +7,8 @@ public class Ram {
 		
 		System.out.println("This is a new project");
 		System.out.println("ram eats mango");
+		System.out.println("ram is a good boy");
+		System.out.println("sita ia a good girl");
 	}
 	
 	
