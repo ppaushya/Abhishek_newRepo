@@ -6,7 +6,9 @@ public class Ram {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is a new project");
-
+		System.out.println("ram eats mango");
 	}
+	
+	
 
 }
