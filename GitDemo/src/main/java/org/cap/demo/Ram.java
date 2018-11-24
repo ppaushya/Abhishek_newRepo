@@ -10,7 +10,7 @@ public class Ram {
 		System.out.println("ram is a good boy");
 		System.out.println("sita ia a good girl");
 		System.out.println("It's going to be good soon ...so this is BDD2");
-		
+		//ab bas aur nahi. Stop wasting your time
 		System.out.println("some ");
 		System.out.println("some ");
 		
