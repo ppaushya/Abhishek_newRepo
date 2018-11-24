@@ -9,13 +9,11 @@ public class Ram {
 		System.out.println("ram eats mango");
 		System.out.println("ram is a good boy");
 		System.out.println("sita ia a good girl");
-		
+		System.out.println("It's going to be good soon ...so this is BDD2");
 		
 		System.out.println("some ");
 		System.out.println("some ");
 		
 	}
-	
-	
 
 }
