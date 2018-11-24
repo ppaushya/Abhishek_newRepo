@@ -12,7 +12,7 @@ public class Ram {
 		
 		
 		System.out.println("some ");
-		
+		System.out.println("some ");
 		
 	}
 	
